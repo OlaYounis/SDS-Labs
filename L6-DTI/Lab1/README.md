@@ -12,7 +12,7 @@
 ---
 
 ### Lab 1B: Excel
-📥 [Download Excel Workbook](https://github.com/[your-repo]/L6-DTI/raw/main/Lab1/Lab1B_Data_Cleaning_Excel.xlsx)
+📥 [Download Excel Workbook](https://github.com/OlaYounis/SDS-Labs/blob/main/L6-DTI/Lab1/Lab1B_Data_Cleaning_Excel.xlsx)
 
 **Best for:** Finance professionals, traditional accounting roles
 
