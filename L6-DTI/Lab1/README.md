@@ -1,1 +1,30 @@
+# Lab 1: Data Exploration & Cleaning
 
+## Choose Your Tool
+
+### Lab 1A: Python (Google Colab)
+[![Open In Colab](https://colab.research.google.com/drive/1e5v6yT9D_15DkEPhOQina_bduROj_nle)
+
+**Best for:** Data analysts, technical roles
+
+**What you'll use:** Python, pandas, matplotlib
+
+---
+
+### Lab 1B: Excel
+📥 [Download Excel Workbook](https://github.com/[your-repo]/L6-DTI/raw/main/Lab1/Lab1B_Data_Cleaning_Excel.xlsx)
+
+**Best for:** Finance professionals, traditional accounting roles
+
+**What you'll use:** Excel formulas, pivot tables, charts
+
+---
+
+## Learning Outcomes (Same for Both)
+- Load and inspect financial datasets
+- Identify data quality issues
+- Apply cleaning techniques
+- Document decisions for audit trail
+
+**Duration:** 60-90 minutes  
+**Portfolio Output:** Completed workbook demonstrating data cleaning skills
