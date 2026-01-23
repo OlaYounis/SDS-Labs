@@ -3,7 +3,7 @@
 ## Choose Your Tool
 
 ### Lab 1A: Python (Google Colab)
-[![Open In Colab](https://colab.research.google.com/drive/1e5v6yT9D_15DkEPhOQina_bduROj_nle?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OlaYounis/SDS-Labs/blob/main/L6-DTI/Lab1/Lab1A_Data_Cleaning.ipynb)
 
 **Best for:** Data analysts, technical roles
 
