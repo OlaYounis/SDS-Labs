@@ -4,7 +4,7 @@
 
 In the real world, data is messy. Financial datasets contain missing values, outliers, and inconsistencies. Before meaningful analysis, you must clean it.
 
-**The Cost:** Poor data quality costs organizations $12.9M annually on average.
+**The Cost:** Poor data quality costs organisations $12.9M annually on average.
 
 **Your Role:** Finance professionals spend 60-80% of their time on data preparation. This lab teaches systematic techniques for real-world data quality issues.
 
