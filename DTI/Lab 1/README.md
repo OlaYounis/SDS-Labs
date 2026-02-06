@@ -430,7 +430,7 @@ In finance, you **investigate outliers, not delete them**. Documentation is as i
 
 If you'd like to compare your work or need a completed example for reference:
 
-**[Download the completed workbook: Data_Cleaning_Excel.xlsx](Data_Cleaning_Excel.xlsx)**
+**[Download the completed workbook: Data_Cleaning_Excel.xlsx](https://github.com/OlaYounis/ACCA/raw/refs/heads/main/DTI/Lab%201/Data_Cleaning_Excel.xlsx)**
 
 This file includes:
 - All cleaning steps completed
