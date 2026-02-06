@@ -1,6 +1,6 @@
 # ACCA Data Science Labs
 
-**Private repository for ACCA Data Science qualification content development.**
+**Public repository for ACCA Data Science qualification content development.**
 
 This repository contains hands-on lab exercises for:
 - **L6 - Data Technology & Innovation (DTI)**
