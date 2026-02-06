@@ -44,7 +44,7 @@ Ensure consistency: "North" vs "north" vs "NORTH" → all become "North"
 ### 🐍 Lab 1: Python (Google Colab)
 **Best for:** Technical data science skills  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OlaYounis/ACCA/blob/main/ACCA/SDS/Lab1/Data_Cleaning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/OlaYounis/ACCA/blob/main/SDS/Lab%201/Data_Cleaning.ipynb)
 
 
 ## What You'll Deliver
